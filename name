@@ -1,0 +1,8 @@
+
+function printDetails(){
+	var name = "Cephas";
+var height = "6'0";
+var country ="Nigeria";
+	console.log( name+" "+height+"" +country);
+}
+printDetails();
